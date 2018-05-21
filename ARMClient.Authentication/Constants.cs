@@ -13,6 +13,7 @@ namespace ARMClient.Authentication
             "https://login.windows-ppe.net",
             "https://login.microsoftonline.com",
             "https://login.microsoftonline.com",
+            "https://login.microsoftonline.com",
             "https://login.microsoftonline.de",
             "https://login.microsoftonline.us"
         };
@@ -22,6 +23,7 @@ namespace ARMClient.Authentication
             "https://graph.chinacloudapi.cn",
             "https://graph.ppe.windows.net",
             "https://graph.ppe.windows.net",
+            "https://graph.windows.net",
             "https://graph.windows.net",
             "https://graph.windows.net",
             "https://graph.cloudapi.de",
@@ -34,6 +36,7 @@ namespace ARMClient.Authentication
             "https://api-current.resources.windows-int.net",
             "https://api-dogfood.resources.windows-int.net",
             "https://management.azure.com",
+            "https://brazilus.management.azure.com",
             "https://management.usgovcloudapi.net",
             "https://management.microsoftazure.de",
             "https://notsupport.com"
@@ -45,6 +48,7 @@ namespace ARMClient.Authentication
             "https://umapi.rdfetest.dnsdemo4.com",
             "https://umapi-preview.core.windows-int.net",
             "https://management.core.windows.net",
+            "https://management.core.windows.net",
             "https://management.core.usgovcloudapi.net",
             "https://management.core.cloudapi.de/",
             "https://notsupport.com/"
@@ -53,6 +57,7 @@ namespace ARMClient.Authentication
         public static string[] CSMResources = new[]
         {
             "https://management.core.chinacloudapi.cn/",
+            "https://management.core.windows.net/",
             "https://management.core.windows.net/",
             "https://management.core.windows.net/",
             "https://management.core.windows.net/",
@@ -69,6 +74,7 @@ namespace ARMClient.Authentication
             "https://vault.azure.net",
             "https://vault.azure.net",
             "https://vault.azure.net",
+            "https://vault.azure.net",
             "https://vault.azure.net"
         };
 
@@ -77,6 +83,7 @@ namespace ARMClient.Authentication
             ".scm.chinacloudsites.cn",
             ".scm.antdir0.antares-test.windows-int.net",
             ".windows-int.net",
+            ".scm.azurewebsites.net",
             ".scm.azurewebsites.net",
             ".scm.azurewebsites.us",
             ".scm.azurewebsites.de",
@@ -89,6 +96,7 @@ namespace ARMClient.Authentication
             ".notsupport.com",
             ".tfsallin.net",
             ".visualstudio.com",
+            ".notsupport.com",
             ".notsupport.com",
             ".notsupport.com",
             ".notsupport.com"
